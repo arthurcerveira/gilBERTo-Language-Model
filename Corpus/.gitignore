@@ -1,3 +1,5 @@
 venv/
-data/*.txt
-oscar-tools/
+OSCAR/data/*.txt
+OSCAR/oscar-tools/
+brWaC/data/*.txt
+brWaC/data/*.vert
